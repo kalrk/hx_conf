@@ -1,0 +1,7 @@
+theme = "sonokai"
+
+[editor]
+mouse = false
+shell = true
+line-number = "relative"
+auto-completion = true
